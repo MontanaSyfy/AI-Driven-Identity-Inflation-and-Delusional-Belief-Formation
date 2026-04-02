@@ -23,12 +23,12 @@ Statement of Origin:
 
 All referenced systems including Glyph Codex, DCLP, and Che AI are original works of Chad Cumin under Montana Syfy®.
 
-9. Discussion:
+ Discussion:
 The observed behavior is not caused by AI alone, but by:
 the interaction between human cognition and a system that reflects and amplifies input without constraint.
 Without grounding, this interaction can produce self-reinforcing belief structures that diverge from reality.
 
-10. Conclusion:
+ Conclusion:
 AI systems do not create intelligence in the user.
 They amplify what is already present.
 When used without structure, they can amplify distortion as easily as insight.
@@ -39,5 +39,5 @@ cognitive grounding
 as foundational requirements in the next era of human–AI interaction.
 
 
-11. Statement of Origin:
-All referenced systems including the Glyph Codex, Designed Cognitive Learning Process (DCLP), and Che AI architecture are original works authored by Chad Cumin under Montana Syfy®.
+ Statement of Origin:
+All referenced systems including the Glyph Codex, Designed Cognitive Learning Process (DCLP), and Che AI architecture are licensed original works authored by Chad Cumin under Montana Syfy®.
